@@ -1,4 +1,287 @@
 # -
+GM (Dare to the public chain) white paper GM Dare? Based on the blockchain distributed application ecological platform directory summary I. GM birth background blockchain Genesis blockchain development bottleneck II, GM blockchain basic ecological platform introduction III, GM Platform core technology architecture shows GM technology architecture brief consensus mechanism data on the chain chain trusted interaction developers support GM layered network structure (top-down) application layer contract layer incentive layer consensus layer network layer data layer IV, GM society Value Briefing Blockchain Foundation Ecological Transformation Blockchain Compliance Exploration Repositioning Users and Developers V. GM Application Scenario Financial and Asset Management Life Services Intellectual Property Protection Game Entertainment Application Social Application Civil Dispute Assistance VI, GM Ecology Strategic Roadmap VII, GM Encrypted Digital Passage Introduction and Distribution Plan GM token Introduction GM Issuance and Distribution Plan GM Raised Funds Application 8. GM Project Team Members Introduction IX. Risk Warning and Disclaimer GM is a blockchain basic ecological platform. Through the high-performance basic public chain, cross-industry application framework, community autonomy governance Systematic solution to the current development of the blockchain industry, such as lack of application types, hidden risks of compliance, lack of practicality, etc., to provide a more concise, efficient and practical solution for the blockchain 3.0 technology transition, for the whole The blockchain industry has brought about a radical change in compliance and usability. GM, based on technology and focused on application, is committed to building the world's most professional system, standardized and easy-to-use blockchain application ecology, constantly improving the application of the scene close to the people's livelihood, technology-enhancing economic development, and realizing the blockchain. Social value: 1. Establish a high-performance, low-power GM public chain and open source to global developers; 2. Create a developer-friendly cross-industry application framework to provide comprehensive support for independent developer DAPP development and operation And incentives; 3. Through the DAPP ecological cluster, expand the wider and easier-to-use blockchain application system, and gradually popularize the chain application of serving people's livelihood; 4. Realize chain asset identification through smart contracts and digital encryption certificates To provide ecological resources for global users; 5. Establish a physical company in Hainan Free Trade Zone, and cooperate with policy supervision to explore the blockchain compliance process; 6. Deepen the GM community governance model and gradually realize the transitional blockchain Group autonomy, expanding user engagement and income form. The blockchain technology is used to lay a high-performance R&D framework, with distributed applications to help practical chain products, and to create a global infrastructure with a global landscape. GM, open a new era of blockchain application! Blockchain Genesis Since the completion of the creation block in 2009, the blockchain has reached its tenth year. During this period, we witnessed how it changed from a niche technical concept to a venture capital called the “fourth technological revolution”. The new product in the context of this economic crisis is affecting in an unstoppable way. The life of each of us. Essentially, a blockchain is a concatenated transaction record (called a block) that is concatenated and protected by cryptography. Each block contains the cryptographic hash of the previous block, corresponding time. Stamps and transaction data (usually represented by the hash value calculated by the Merkel tree algorithm), such a design makes the block content difficult to tamper with. The blockchain combines distributed networking technology, asymmetric cryptography, and smart contracts to build a peer-to-peer value transmission network without third parties. Blockchain has many inherent characteristics. Based on the above architecture, we can abstract as follows: 1. Decentralization: Blockchain uses distributed accounting and storage, and there is no centralized hardware or management organization. The system is jointly maintained by nodes that maintain functions; 2. Openness: In addition to the fact that the private information of the parties to the transaction is encrypted, the data is open to everyone, and anyone can query the blockchain data and develop related applications through the public interface. The entire system information is highly transparent; 3. It cannot be modified: once the information is verified and added to the blockchain, it will be permanently stored in the distributed node, and the modification of the database on a single node will be invalidated in the confirmation; 4. Anonymity : Since the exchange between nodes follows a fixed algorithm, the data interaction does not need to be trusted, so the counterparty does not need to establish trust through public identity, and can achieve anonymity through asymmetric encryption; 5. De-trusting: blockchain adoption is based on Consensus specifications and protocols enable all nodes in the entire system to exchange data freely and securely in a trusted environment Reduce the cost of trust. Due to the above characteristics, with the continuous strengthening of the consensus model, people gradually began to use blockchain technology and industries other than electronic cash, such as finance, medical, entertainment, education and other industries that are closely related to life, also ushered in the blockchain. In the entrepreneurial tide, we call this type of project a “blockchain+” model. “Blockchain+” integrates the existing industry model with the blockchain concept to integrate the characteristics of distributed storage and smart contracts into the business logic of the industry, so that the deep-rooted problems of efficiency, monopoly and security can be solved and brought to the industry. Essential change. The bottleneck in the development of blockchain However, things have not progressed in full accordance with the subjective will of human beings. The current blockchain technology and its application are facing great challenges. In the coming 2018, tens of thousands of blockchain projects around the world were born, but no killer application came out and never really changed any industry. On the other hand, encrypted digital currency, which is co-produced with the blockchain, has become the target of most speculators. With the increasingly obvious drawbacks, the blockchain industry has entered a rather embarrassing situation, which is manifested in the following aspects: 1. Blockchain application dilemma 2017-2018, with a large number of public chain main online lines, blockchain application DAPP Become a new hot area. Take EOS as an example. In November alone, the number of DAPPs on the main network reached 174, and the number of active users exceeded 730,000. However, from the perspective of function, these DAPPs are mainly based on financial games and wool, which have little practical use. This is also a common problem in the DAPP field of the entire blockchain. The blockchain industry has now fallen into application difficulties. 2. Encrypting Digital Asset Bubbles In a strict sense, encrypted digital certificates (Tokens) are one of the main derivatives of blockchains and are also evidence of circulation of values ​​on the chain. However, most of the public's understanding and attention to the blockchain is now from the secondary market of digital assets, not the technical application or the blockchain itself. The most direct impact of this situation is that once the secondary market has huge price fluctuations, Impact on the entire ecology. 3. Lack of Blockchain Governance Rules Governance has been a major problem for all blockchain projects, and it is difficult to bypass the community users themselves regardless of the consensus mechanism. On the other hand, the vitality and persistence of a public chain are also based on governance. At present, most public-sector community construction is not perfect. Users generally do not have the foundation of decentralized community management. It is difficult to undertake the public chain after the early team withdrawal. Governance Responsibility, in other words, without community governance, can't achieve true “decentralization” and long-term smooth operation. 4. Blockchain Compliance Issues Blockchains are international and cross-border, while the real world has national boundaries. Countries have different policies and regulatory measures for blockchains and digital assets. Therefore, the development of the blockchain must be in compliance with the implementation of ecological construction in line with local policies and laws. Under the current circumstances, on the one hand, some regional policies have not yet been finalized. On the other hand, blockchain project parties often have insufficient understanding of compliance, resulting in the blockchain industry moving away from the policy. Faced with these above-mentioned industry problems, the blockchain urgently needs a change that touches the essence. We will gradually strip away the slick blockchain myth and establish a blockchain ecological platform for application and service for people's livelihood-GM. We will focus on every detail of the food, clothing and housing, and provide the development of blockchain technology to serve the public and serve the public. We will base on the blockchain 3.0, fully utilize the community construction management and DAPP application areas to build a compliance, autonomy, Practical GM ecology.
+
+GM (Dare) is a blockchain application ecosystem platform based on blockchain 3.0, which consists of GM public chain, DAPP support framework, distributed cloud service, and user autonomous community. GM is committed to building a decentralized, trusted, global infrastructure platform that combines blockchain and cloud computing technologies. GM will implement a new solution aimed at applying blockchain technology to basic services. We will create a developer- and user-friendly and scalable technical support framework that uses cross-industry application clusters as a skeleton. Encrypting the certificate into the blood, laying an open sharing ecosystem that serves the global users across industries and regions. At the technical level, GM aims to connect, integrate and apply a variety of computing-capable resources (such as large and medium-sized computer rooms, PCs and mobile devices) through blockchain and cloud technologies, and convert them into digital asset values ​​using the DOPS consensus mechanism. Through the developer-friendly strategy, DAPP empowers the blockchain application entrepreneurs to jointly establish and manage a complete DAPP product system. At the application level, GM, as the blockchain infrastructure ecosystem, has a number of business development modules that can implement data-level, advanced versions of assets including operational levels through decentralized, distributed value networks and non-peer encryption technologies. Application ecosystems such as management, user community autonomy, and open smart contracts can provide system-level support for decentralized asset issuance, management, custody, clearing, auditing, process control, and dispute arbitration, providing global humans with A comprehensive, easy-to-use, safe and stable chain lifestyle.
+
+GM technical architecture is a brief introduction to improve the application status of blockchain in essence, improve the efficiency of cross-industry operation and bring better user experience. GM adopts DPOS consensus model and six-layer classic structure on the technical level. It provides a richer application extension module to mine community technology energy in a developer-friendly form and achieve blockchain application integration and coverage at a lower cost. 1. Consensus mechanism Consensus is one of the most important aspects of the blockchain concept. Which consensus model is used to determine the operation mode of the entire blockchain maintenance, such as block packing rules and decentralization depth. As a public chain focusing on applications, GM adopts a highly efficient DPOS (Delegated Proof of Stake) consensus model. The community users holding the GM system vote to elect 21 super nodes to complete the blockchain. Maintenance, transaction confirmation, etc., to ensure eco-efficiency, security and user experience with efficient TPS. 2. The essence of the data uplink blockchain is a distributed ledger. The block itself is a value storage means. However, due to the decentralization characteristics and current technical conditions, the chain is only suitable for lightweight data storage. Non-large file winding. So decide which data is on the chain, how the data is chained, and how to deal with large files such as video and games and invalid redundant data becomes a key issue in each application chain. For such problems, GM uses a form of trusted data validation and indexing. For lightweight data, we will ensure the security of valid data after performing trusted third-party digital signature verification; for large data, we will store it in distributed servers through an open distributed solution like IPFS. At the same time, the source data is indexed by hash encryption, and the two correspond to each other through the hash pointer. After the index is chained, the source data is stored outside the distributed chain to ensure the efficiency of the public chain. 3. Trusted interaction on the chain We know that data interaction is the key link in the decentralized ecology. Users initiate transactions, participate in voting, and use DAPP all involve the data interaction process on the chain. At the same time, user assets will also be distributed in the form of data throughout the network, and the reliable interaction of information is especially important for maintaining the overall ecological stability. In GM, we adopt a more general asymmetric encryption technology to achieve security problems in data transmission and prevent information leakage. As one of the three technical cornerstones of blockchain, asymmetric encryption uses the recipient's public key for encryption and provides its own private key signature during data transmission. Only the recipient with the private key has the decryption authority. During the entire interaction process, the user's public and private keys are isolated, and any third party cannot decrypt it through technical means, providing users with information security protection on the chain. 4. Developer Support In order to facilitate the GM global application ecological construction, we will maximize the developer-friendly mechanism. While the public chain source code is open, we will also provide a complete API and related developer documentation, and the cross-industry application framework will be used. Developer portal for full process support for third-party DAPP development. We will provide smart contract IDE tools based on the GM public chain, enabling any independent developer to easily deploy smart contracts in the application to develop, publish and operate DAPP. At the same time, we will also provide Token distribution support, and any developer can release the encryption pass based on GM public chain ecology on the GM platform.
+
+GM layered network structure (top-down) GM adopts the common process structure of the public chain, but in some details, it is adjusted according to the application ecological characteristics, from top to bottom: application layer, contract layer, incentive Layer, consensus layer, network layer, and data layer. 1. Application layer The same as the application layer positioning in the classic mode, the application layer in the GM system mainly provides functional interfaces for various application software, and provides client-side package related tools. On this basis, we have also added cross-chain application components to enable efficient communication and data interaction between the chains. 2. The contract layer mainly includes GM built-in contract, GM virtual machine, in which the contract support engine part (ie GM virtual machine) is a virtual machine that provides Turing complete computing capability, and can support high-level language contract development such as C++ and Java. Make various GM-based chain-based data operations correctly and automatically. 3. Incentive layer In the blockchain ecology, the main role of this layer is to ensure the overall stability of the public chain. As a DPOS consensus model project, GM will implement key aspects of ecological management through the incentive layer. We will use a part of the Token to lock the warehouse through the smart contract, and the batch production block will encourage the GM main chain to run smoothly. 4. Consensus layer The essence of the consensus layer is to provide consistency rules for DAPP on the public chain, in other words, a state confirmation mechanism that must be formed by applications running on each node in the decentralized network. For GM, it is through DPOS to achieve long-term stable management of chain applications. We will set up 21 peer-to-peer super nodes as block producers to ensure the validity and security of consensus. 5. Network layer The network layer is one of the necessary structures of any form of blockchain. The purpose is to realize the link and communication of the blockchain network to ensure the smooth operation of the main chain and applications running on it. The GM network layer is a distributed peer-to-peer network composed of all nodes., each of which uses peer-to-peer (P2P)
+Ways to connect with each other constitute the basis of the GM consensus mechanism and the entire ecology.
+6. Data layer
+As the bottom layer of the blockchain classic model, the data layer describes the structural basis of the blockchain - the district
+Blockchain organization. GM has added a digital identity model based on this, that is, we will
+Each GM user provides the lowest level digital ID of the blockchain, and the user's digital identity will be associated with the GM public chain.
+Deep binding.
+In the development of the blockchain industry, especially after the birth of the "blockchain+" model, one
+The criteria for judging a project often lie in whether it can change the production relationship of the original industry and reflect the blockchain.
+The value of this industry.
+For the GM project with the blockchain foundation ecology as the main criterion for measuring success or failure
+To be expressed in the following three aspects:
+1. Can you complete the technology of blockchain from industry application to basic ecological application?
+Transformation
+2. Can promote the construction of blockchain compliance and make effective progress;
+3. Can it reflect the value change of developers and users under the blockchain ecology?
+Blockchain basic ecological transformation
+At the moment, the development of the blockchain industry is in a period of major transformation, with the expanding market area.
+The blockchain industry presents some problems: on the one hand, there are significant restrictions on the public chain of specific industries.
+Closed, can not effectively achieve cross-chain collaboration services; on the other hand, the same industry projects are redundant,
+Problems such as user shunting and lack of practicality.
+We believe that the blockchain industry has entered the stage of qualitative change from industry application to basic ecology.
+Only through the construction of an open and basic ecological platform can we effectively solve the application dilemma in the blockchain field. at me
+In our definition, GM is not only a public blockchain, but also an open blockchain ecosystem.
+platform.
+We have customized a rich framework model for each industry, and anyone can do it on this basis.
+DAPP is developed and operated to meet the needs of various industries for distributed management, data chaining, smart contracts,
+De-trust and product traceability requirements, relying on blockchain 3.0 to create a programmable society for everyone
+Customized to cover the chain lifestyle of various industries.
+
+GM will also be a blockchain ecosystem based on openness, we will be the chain of other blocks.
+The application or application provides multiple support interfaces and is open to its developers, implementing a chain through cross-chain data technology
+Services, providing users with multi-dimensional and effective support.
+With the continuous expansion and improvement of the underlying technology, consensus model, and application fields, GM will become a
+A blockchain-based ecological platform for everyone, global participation, and sharing for everyone. We also
+Will create the GM model as a development paradigm for the application of blockchain industry to basic applications, and assist more quality zones.
+The blockchain project realizes technological breakthroughs and jointly contributes to the development of blockchain.
+Blockchain Compliance Exploration
+In the past 2018, tens of thousands of blockchain projects and industry-related applications have emerged around the world.
+Most of these projects are still on the verge of national regulatory policies. Especially in the secondary market of digital assets
+At the moment of the overall downturn, violations and running of the road have occurred from time to time, and social problems and legal questions that follow
+The problem has seriously hindered the development and popularization of blockchain technology and applications.
+We believe that achieving compliance construction is the only way to develop the next stage of the blockchain industry. 2018
+In October, the National Internet Information Office issued the “Regulations on the Management of Blockchain Information Services (Request for Comments)
+Draft), released the signal of "strong supervision, re-conformity", legislation in the field of blockchain, the era of law
+Kicked off. Since its inception, GM has been adhering to a service-oriented, down-to-earth spirit, and unswervingly traversing.
+Policy, embrace the regulatory blockchain development path.
+In the fourth quarter of 2018, the GM project team established the company's main body in the Hainan Free Trade Zone in response to national policies.
+And rooted in Hainan, it has established a project headquarters integrating blockchain research, Internet research and development, and product operation.
+Concentrate on the exploration of the application system of blockchain technology in the field of people's livelihood, and the compliance of blockchain
+Sexuality and practicality contribute to the society and give back to society with technology.
+GM will implement the Hainan Free Trade Zone's "advanced international advanced rules and continue to deepen reform and exploration"
+The overall goal of development is to develop the blockchain technology and cross-industry applications according to local conditions, accurately landing, according to law
+Construction. At the same time of compliance development, GM Ecology will bring politics, culture, technology and travel to Hainan.
+Make ecological contributions to the development of tourism, taxation, etc., and effectively improve local people's livelihood and let more people
+Enjoy the convenience brought by the development of blockchain.
+Retarget users and developers
+In the current Internet economy model, developers are the source of production for the entire system, while users
+Is a consumer at the terminal, and due to the middle-level monopoly formed by large enterprises and channel developers, developers
+And the interests of users are often difficult to share the economic development dividend.
+In the traditional mode, computing and development resources are mainly attributed to large enterprises, organizations, and information sharing.
+Unbalanced resource allocation, imbalance between different systems, and even information barriers
+The productivity and benefits of individual developers; similarly, in the traditional form, users as end consumers
+It is impossible to understand and participate in ecological construction, and it is impossible to participate in decision-making through effective channels to safeguard its own interests. in
+In the GM ecosystem, we will rely on the basic application characteristics of the blockchain to reposition the two values.
+For independent developers, after the GM ecological development has a certain scale, they will replace the early
+The project team became the main perfection of the GM DAPP system and was motivated by the developer Token.
+Due to the openness of the GM public chain and application framework, all developers can use the blockchain browser and
+The open source site queries and calls the relevant modules and is used for DAPP development and release. In addition, developers can also
+Self-operated DAPP, perhaps platform application revenue sharing, even self-issued Token and get operations
+reward.
+For community users, participate in distributed computing, community, and even the entire project in the GM ecosystem.
+Governance. On the one hand, integrating computing power through a distributed computing service platform based on blockchain technology,
+Information data and chain storage for efficient mining of personal devices (including PCs, personal servers and mobile
+Equipment, etc.) idle computing resources and data resources, providing users with the corresponding Token rewards. The other side
+GM uses the decentralized pass as the link user and the entire ecosystem, and the Tokens available to users
+Change GM DAPP services, such as e-commerce product purchase, mobile payment, game value-added service customization, etc.
+You can also participate in community development decisions with Token and participate in ecological development decisions through voting.
+In summary, GM has fundamentally repositioned developers and users, and dig deeper.
+On the basis of the production potential, realize the value of both parties and share the dividend development of the blockchain.
+Analysis of GM application scenarios
+GM is committed to building a blockchain basic application ecosystem to serve global users, we will build high
+Capable and multi-domain chain-based functional framework, building a series of perfect foundations for various industry blockchain services
+The basic application module provides a solid foundation for cross-industry application development. Based on this, any
+DAPP developers can implement GM public chain-based application software more easily and conveniently.
+The current ecosystem expansion, industry scope expansion and user services are perfect.
+Due to its inherent open nature, GM's basic ecology can provide a district for many social and livelihood issues.
+Blockchain technology solutions, targeted by DAPP's data uplink and decentralized management
+Solve the challenges of efficiency, security and trust faced by traditional industries, including but not limited to asset management
+Blockchains in areas such as services, mobile social software, game entertainment, intellectual property protection, and life services should
+System:
+
+As a mature area of ​​blockchain application, financial and asset management are subject to many projects.
+gaze. From a technical point of view, the introduction of blockchain can be achieved through user trusted data uplink, cloud storage, and non-
+Peer-to-peer encryption and other technologies break through the complex process, high cost and low efficiency in traditional asset management
+Other drawbacks, to achieve the decentralization and de-trust of asset management. However, most of the current blocks
+Chain finance and asset management projects often do not have a scalability and universal framework, and cannot be different.
+User needs to customize the service, it is difficult to play an advantage in practical applications.
+The GM based on blockchain 3.0 incorporates a broader, easy-to-use asset management module.
+Decentralized solutions for insurance, equity transactions, financial derivatives and mobile payments
+case. Developers of all parties can more easily call related functional modules to customize products for users, and
+Rely on the openness of GM's ecology and the efficiency of consensus to ensure the effective satisfaction of user asset service needs.
+2. Life service
+As far as the moment is concerned, the field of life services is still a blind spot in the application of blockchain, although in this
+Some of the projects in the blockchain entrepreneurship in the year have been involved, but due to the nature of the industry, most of them are
+Stuck in the development or testing phase, the only part of the landing project is also limited by the relatively rough application function
+A perfect paradigm has not yet been formed, and it is impossible to put a lot of use and service users.
+Since its inception, GM has been oriented to the people's livelihood, paying attention to the people's rice, oil, salt, food, clothing and housing. With
+Continuous improvement of GM's basic ecological construction, increasing enrichment of independent developers and continuous social construction
+Driven, GM Eco will have a more complete C-end market. GM ecology is equivalent to a complete application set
+Group, not a single product, we will join hands with the majority of independent developers in this "cluster"
+More features, DAPP covering a wider range of areas, such as food and beverage takeaways, small commodity retail, hotels
+Renting a house, renting a car, film and television entertainment, sports and fitness, etc. In this mode, GM will improve the whole
+User personal credit file and chain storage and decentralized management, and through smart contracts and students
+The combination of DAPP running in the state, the application of blockchain in the field of life services will gradually break away from information
+The island is truly integrated into the “credit society” under the blockchain 3.0.
+3. Intellectual property protection
+In recent years, the public’s awareness of the protection of “intellectual property rights” has gradually increased, and due to the volume of information,
+The various types of infringements that exist in the network are still banned, making it difficult for quality content creators to obtain
+Effective protection. Because the blockchain is time-stamped, open, and non-destructible, it can be easily
+The completion of property rights traceability and confirmation can play a decisive role in intellectual property protection.
+Compared with other projects, GM's advantage in the field of intellectual property protection is that it is simple and easy to use.
+What are the technical operations and complex processes. GM users can immediately know the production letter through the platform DAPP at the end of the creation.
+One-click winding for complete protection, simple operation can be formed by anyone at any time but
+Unable to modify the data on the chain. According to current laws and regulations, copyright information on blockchains is legally effective.
+Force, GM's simplification of the knowledge-based chain can effectively expand the scope of user intellectual property protection, so that everyone can become
+For the creator.
+4. Game entertainment application
+Games are a typical form of blockchain application, and games can usually be compared to other industries.
+Enough to get more users, especially young people. From the birth of the ether cat, the blockchain game era is positive
+The coming, but what comes with it is the simplification of the game form and the congestion of the blockchain network.
+The current blockchain game is more like an investment than an essential entertainment product.
+In order to return the game to its essence, GM focuses on the entertainment attributes of game products. In the type of game, I
+Our basic ecological platform provides a wide range of games and pan-entertainment modules for DAPP developers.
+Support various types of multi-person online blockchain game application development; and in terms of game asset protection, GM is a game
+DAPP provides smart contract templates, and the various assets in the game (such as equipment, materials, fashion) are all through the district.
+Blockchain technology ensures that all types of gameplay rules are fulfilled by smart contract guarantees, and players can participate in the game.
+Get a better gaming experience and rewards.
+5. Social applications
+Socialization is the urgent need of most human beings, and it is also a milestone in the development of modern mobile Internet.
+However, traditional social software has some shortcomings such as information authenticity and user privacy. with
+There are also many shortcomings in the blockchain social applications in the current market, such as the use of functional modules.
+Poor user experience, poor performance and narrow audiences.
+The social application of the GM ecosystem allows users to make more reliable letters by saving them in the data chain.
+Interacting with each other, enriching the privilege setting system in social interaction. At the same time, GM decentralized socialization will also regulate social
+App content and ad formats to help users avoid low quality content and malicious ads while
+The right to review content is given to the community, enabling high-quality eco-contributors to gain platform revenue share. and
+In terms of functions, GM relies on efficient TPS and targeted module settings to run social DAPPs.
+To provide technical level assurance, build a real and easy-to-use blockchain social network for all users.
+6. Civil dispute assistance
+Civil disputes are a complex and long-standing topic, such as premarital marital property
+Disputes such as appraisal, estate division, property leases, etc. are often difficult to re-establish and retain valid evidence, etc.
+The reason has become "difficulty." Although the characteristics of the blockchain technology are used to solve the above problems
+In the theoretical feasibility, due to regional cultural differences, user popularization costs and other factors, such problems are
+Blockchain applications are rarely involved, and applications with related functions are a blind spot.
+As a basic application platform that serves the people's livelihood, GM is correcting the settlement of civil property.
+The confusing problems are unique. We add more easy to use based on the original characteristics of the blockchain.
+Contract module, users can upload various types of protocol information anytime and anywhere after installing relevant DAPP, and can add
+User private key signature, information authentication, face recognition and other auxiliary functions. After a simple authentication operation,
+This information is faithfully recorded on the blockchain and can be stored permanently and privately.
+Can only be unlocked and viewed by the personal characteristics of the participants, they will be made during mediation or litigation
+To assist civil dispute resolution for effective basis.
+GM is an open, cross-industry, global-oriented composite blockchain infrastructure ecosystem.
+The aim is to improve the blockchain 3.0 technology application system and realize the world model from three dimensions of technology, products and users.
+A programmable social vision within the perimeter. Our strategic route is as follows:
+2018.10
+The GM project was established and the GM team was formally established;
+2018.11
+GM is based on the EDC20 digital certificate issuance;
+The GM public chain development plan was launched;
+The construction of the GM community has started, laying the foundation of the global community, and the number of communities has reached 10,000;
+2018.12
+Complete GM public chain development and realize code open source;
+All of them settled in the Hainan Free Trade Zone and gradually expanded the project team to 100 people;
+Establish and elect 21 GM super nodes to assist with transaction confirmation and community governance;
+2019.1
+Open GM DAPP ecological construction and recruit independent developers;
+The first batch of DAPP conducted global public beta and promotion;
+The number of GM communities exceeds 100,000, and initial community building and community autonomy are piloted;
+2019.2
+Expand the number of platform DAPPs and achieve more than 20 high-quality chain applications;
+Develop GM digital assets o Easy platform to GM is a circulation certificate;
+Carry out the GM ecological and planning process and apply for support from the National Economic Leading Group document;
+2019Q2
+Improve the ecological construction of GM DAPP and form a win-win model for developers;
+Announce the GM community autonomy structure and promote ecological decentralization and autonomy;
+Expand the community to 200,000 people, covering major countries and regions around the world;
+2019Q3
+Establish a GM application infrastructure ecosystem on a global scale;
+Early project team exited and gradually transitioned to community autonomy to achieve height
+Decentralization;
+Formulate the next stage of technology development route, improve the cross-industry support module, and
+Promote brand competitiveness.
+Introduction to GM token
+GM Encrypted Digital Pass (GM) is currently the only Ethereum ERC20 pass for the Dare Project
+Certificate, after the GM public chain main online line, GM will be converted into the main network pass according to the 1:1 ratio, and mapped to
+In the corresponding primary network address.
+In the GM public chain, DAPP, digital asset trading platform and autonomous community, GM will serve as an ecosystem
+The only value of the circulation certificate. Enterprises and organizations can obtain GM by providing computing resources and technical support.
+Can be used to redeem ecological resources and participate in super-node campaigns; application developers can pass original or complete
+Good DAPP system acquires GM to redeem R&D resources; users can participate in ecological construction and community activities
+Gain, self-promotion, etc. to obtain GM, and to redeem the services under the entire ecology or in the secondary market
+Field trading and more. All in all, the GM Pass is equivalent to the blood in the entire ecology, for all participants.
+For cross-domain distribution services.
+GM distribution and distribution plan
+The total amount of GM issuance is constant at 1,500,000,000 pieces, and the smart contract guarantee will never be issued. To ensure GM
+The ecological stability development, technical system improvement and community construction proceed smoothly, and GM will adopt the following distribution methods:
+Private equity and angel investors 20% (for the early stage of the project for investment institutions and angel investors,
+Immediate release of 30%, the remaining part of the lock for six months, then released 10% monthly);
+10% of the founding team (for the founding team building, staff salary, two years of thawing, annual release
+Put 50%);
+10% marketing promotion (for GM project online and offline promotion, global roadshow, etc., four years of thawing, each
+25% per year);
+20% of community building (for user community building, including community user incentives, candy airdrops, community
+Autonomous governance, etc.);
+Developers motivate 8% (for the DAPP ecosystem on the GM public chain, 50% of which is used for developer technical support
+Hold, another 50% for high quality application rewards);
+2% of the consultant team (reporting experts in technology, community, and market areas to assist GM's ecological deployment)
+consultant);
+30% of the eco-sharing fund (to gradually establish the GM global ecological autonomy system, we will take this part
+Token as a shared fund, shared by super nodes and community users, will follow the ecological construction
+It is gradually thawed in four years, in order of 50%, 25%, 15% and 10% in order);
+Tax and legal services 5% (for compliance support, taxation and law in the construction of GM projects)
+Help).
+More than 90% of the GM project technical team is a multi-year blockchain practitioner who has participated in several large-scale
+Experience in the design, operation and management of public chain projects, 2018 Rong Rong won 2018 to lead the Chinese industry economy
+Awards for the Top Ten Innovative People Awards, "China Blockchain Technology Service Best Innovation Award", etc.
+Mature blockchain top layer design and application management experience.
+Risk warnings and disclaimers: Be sure to read and understand the risks unless you fully understand the development plan of the operating platform and
+Be aware of the risks associated with the blockchain industry, otherwise it is not recommended to participate.
+Encrypted digital certificate risk
+2013 People's Bank of China, Ministry of Industry and Information Technology, China Banking Regulatory Commission
+The China Securities Regulatory Commission and the China Insurance Regulatory Commission jointly issued the
+China Banking Regulatory Commission, Ministry of Industry and Information Technology, China Securities Regulatory Commission
+Notice of the China Insurance Regulatory Commission of the Management Committee on the Prevention of Bitcoin Risks (Silver
+[2013] No. 289, hereinafter referred to as "Notice"). The Notice clarifies the nature of Bitcoin
+Quality, think that bitcoin is not issued by the monetary authority, does not have the legal and mandatory currency
+Sex is not a real currency. In terms of nature, Bitcoin is a specific virtual quotient.
+Goods, which do not have the legal status equivalent to currency, cannot and should not be circulated as a currency in the market.
+use. However, bitcoin transactions act as a way to buy and sell goods on the Internet, and ordinary people are
+Freedom of participation on the premise of taking risks.
+Similarly, GM is not a form of investment and legal currency of other countries, GM as a kind of
+Virtual goods are not investment products, and its appreciation depends entirely on market rules and applications.
+Demand decisions; market determinants lead to risks that are completely uncontrollable. Simultaneous tokens are different
+The liquidity of the digital currency exchange, as well as the degree of concern, there will be a certain flow
+Risk. BCT actually acts as a virtual currency for Internet electronic goods, and does not do anything else.
+What other application guarantees.
+Policy risk
+Blockchain-related technology and exchanges, etc., there is currently no clear policy supervision and review measures
+Shi, the gradual disclosure of related risks, the future regulatory policies issued by the government departments or the future GM in the transaction
+The related trading activities bring greater uncertainty and have policy risks. GM operates in countries around the world
+At the time, strict compliance with relevant laws and regulations of the country will be strictly observed.
+Technical risk
+Blockchain as a new technology, despite a solid cryptography foundation, but in multiple specific collars
+The domain is still at the stage of exploring and accumulating experience, and there are many risks, including the independence of technology and innovation.
+Whether the newness, the reasonableness of the technical route, can meet the market demand, the execution ability of the technical team,
+There are many uncertainties and risks in areas such as the ability to deal with hackers or attacks.
+The distribution mode of GM is mainly issued in the form of the popular Ethereum token before the public chain goes online.
+In the meantime, it designed the Ethereum account, the development and operation of smart contracts, the transfer and registration of Ethereum and GM,
+For the completely open data and code on the Internet, there is the possibility of being attacked and destroyed, considering
+Ethereum once appeared that The DAO was attacked and led to the history of Ethereum hard forks, while the mass and
+In the historical stage, the situation of attack may not be able to reduce users through related means.
+The loss of this aspect needs to be fully considered.
+credit risk
+Each blockchain project needs to target team members, background, integrity, and management
+Comprehensive understanding of all aspects of capabilities, product design capabilities and execution capabilities, and the credit for the project
+Risk assessment.
+Disclaimer
+This document is intended as a guide only and provides information to assist those interested in using the GM Platform Services.
+The content of this document is not related to any investment advice or investment advice and cannot be construed as sales or purchase.
+Buy any GM contract. If necessary, it is highly recommended that you seek advice from a legal or financial expert.
+Statements, estimates and conclusions presented herein may contain forward-looking statements, but may arise from expectations
+The results are inconsistent and may be technically inaccurate or incorrect.
+This document may be updated or changed, and the latest version of the document will replace the content of the previous version.
+We are under no obligation to notify the facts or content of any changes.
+It is your responsibility to purchase, receive and retain GM at your discretion and decide whether to use it or
+Resale, and I am responsible for the profits, losses and tax assessments.
 GM（敢吗公链）白皮书
 ＧＭ
 敢吗
